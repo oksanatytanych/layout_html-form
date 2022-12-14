@@ -1,1 +1,8 @@
-/* styles go here */
+.formFieldset {
+  margin-bottom: 20px;
+}
+
+.formFild:not(:last-child) {
+  display: block;
+  margin-bottom: 10px;
+}
