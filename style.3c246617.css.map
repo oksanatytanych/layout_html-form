@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,cACE,kBACF,CAEA,4BACE,aAAc,CACd,kBACF","file":"style.3c246617.css","sourceRoot":"..\\src","sourcesContent":[".formFieldset {\n  margin-bottom: 20px;\n}\n\n.formField:not(:last-child) {\n  display: block;\n  margin-bottom: 10px;\n}\n"]}
